@@ -25,7 +25,7 @@ This Python project uses **OpenCV**, **MediaPipe**, and **Screen Brightness Cont
 
 2. Install dependencies:
    ```bash
-   pip install opencv-python mediapipe numpy screen-brightness-control
+   pip install -r requirements.txt
    ```
 
 ## ▶️ Usage
